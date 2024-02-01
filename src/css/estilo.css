@@ -1,0 +1,89 @@
+body{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #5A257E;
+    color:#000000;
+    margin: 0;
+  }
+  
+  h2{
+    color:#9873d4;
+    font-size: 40px;
+  }
+  
+  .titulo-verde{
+    color:#9873d4;
+  }
+  .titulo-vermelho{
+    color:#9873d4;
+  }
+  .titulo-amarelo{
+    color:#9873d4;
+  }
+  section{
+    width:60%;
+    margin: 0 auto;
+  }
+  section section{
+    width: 100%;
+    
+  }
+  h1{
+    font-size: 60px;
+    font-weight: 300;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  h3{
+    font-size: 22px;
+    font-style: italic;
+  }
+
+  p{
+    font-size: 20px;
+    line-height: 1,5;
+    text-align: justify;
+  }
+  img{
+    width: 100%;
+  }
+  ul{
+    list-style-type: none;
+    line-height: 2;
+    padding-left: 0;
+  }
+  a{
+    text-decoration: underline;
+    color: #9873d4;
+    font-weight: 700;
+  }
+  .principal{
+    background: #3a03479a;
+    height: 40px;
+    max-width: 60%;
+    margin: 0 auto;
+    border-radius: 10px;
+  }
+  .principal a{
+    color: #a899b4;
+    text-decoration: underline;
+    font-weight: normal;
+  }
+  .principal li{
+    display: inline-block;
+    line-height: 2.5;
+    margin: 0 89px;
+  }
+  form button{
+    background-color:#FFF;
+    border: 1px solid transparent;
+    padding: 2px 20px;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    width: 5%;
+    cursor: pointer;
+  }
+  form button:hover{
+    background-color: #9873d4;
+	color: #0b0b0b;
+  }
+    
